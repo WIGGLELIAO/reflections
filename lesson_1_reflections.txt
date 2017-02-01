@@ -1,0 +1,2 @@
+It help me to find the diff between two versions and I can know where i changed the file. So the bug came from the changed file.
+Save times to find out the diff.
